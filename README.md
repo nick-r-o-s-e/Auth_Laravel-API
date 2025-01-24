@@ -31,8 +31,8 @@ This project is a RESTful API built with Laravel 11, designed for secure authent
 - Migrations and seeders for quick setup and testing.
 
 ### Hosting & Deployment
-- The backend is hosted online with a MySQL database and real email functionality for password reset.
-- [Mailtrap](https://mailtrap.io/) is used for email testing in development and [Brevo](https://www.brevo.com/) for production.
+- The backend is hosted on [Railway](https://railway.com/) with a MySQL database.
+- Email functionality for password reset. [Mailtrap](https://mailtrap.io/) is used for email testing in development and [Brevo](https://www.brevo.com/) for production.
 
 ## Getting Started
 
