@@ -10,6 +10,8 @@
 
 This project is a RESTful API built with Laravel 11, designed for secure authentication and user management. It provides robust access control with role-based permissions, secure authentication via Laravel Sanctum, and password reset functionality. The API follows best practices for validation, error handling, and database management, making it scalable and maintainable.  
 
+### Hosted Vue.js Front-end: https://auth-vue-project.vercel.app
+
 ## Key Features
 
 ### Authentication and Authorization
